@@ -1,9 +1,9 @@
 ---
 title: "Does marriage really enrich our happiness? Do males and females have different tastes of thier happiness?"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 **Author: Amon Tokoro**
 **Date: 09/17/2018**
